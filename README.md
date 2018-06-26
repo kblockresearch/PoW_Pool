@@ -2,6 +2,7 @@
 
 에디터 Visual Studio Code 다운로드 링크:<br>
 https://code.visualstudio.com/download
-
+<br>
 Github Desktop 다운로드 링크:<br>
 https://desktop.github.com/
+<br>
